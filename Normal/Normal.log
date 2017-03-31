@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2016.12.29)  26 MAR 2017 11:30
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2016.12.29)  31 MAR 2017 10:14
 entering extended mode
 **Normal.tex
-("C:\Users\user\Desktop\SMT Report\Normal\Normal.tex"
+(C:\Users\user\Documents\GitHub\SMT_Report\Normal\Normal.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (C:\CTEX\MiKTeX\tex\latex\base\article.cls
@@ -563,7 +563,7 @@ File: UTF8.enc 2008/12/29 4.8.2
 (C:\CTEX\MiKTeX\tex\latex\cjk\UTF8\UTF8.chr
 File: UTF8.chr 2008/12/29 4.8.2
 )
-("C:\Users\user\Desktop\SMT Report\Normal\Normal.aux")
+(C:\Users\user\Documents\GitHub\SMT_Report\Normal\Normal.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
@@ -659,8 +659,8 @@ LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
 LaTeX Info: Redefining \nameref on input line 20.
 
-("C:\Users\user\Desktop\SMT Report\Normal\Normal.out")
-("C:\Users\user\Desktop\SMT Report\Normal\Normal.out")
+(C:\Users\user\Documents\GitHub\SMT_Report\Normal\Normal.out)
+(C:\Users\user\Documents\GitHub\SMT_Report\Normal\Normal.out)
 \@outlinefile=\write3
 LaTeX Font Info:    Try loading font information for C70+gkai on input line 28.
 
@@ -711,7 +711,7 @@ LaTeX Font Warning: Font shape `C70/gkai/m/it' undefined
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 173.
  [6]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 173.
- ("C:\Users\user\Desktop\SMT Report\Normal\Normal.aux")
+ (C:\Users\user\Documents\GitHub\SMT_Report\Normal\Normal.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 173.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 173.
 Package rerunfilecheck Info: File `Normal.out' has not changed.
@@ -723,11 +723,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  9021 strings out of 495355
- 117862 string characters out of 3183881
+ 117961 string characters out of 3183881
  209427 words of memory out of 3000000
  11990 multiletter control sequences out of 15000+200000
  42603 words of font info for 158 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  33i,13n,30p,609b,1593s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on Normal.dvi (6 pages, 23644 bytes).
+Output written on Normal.dvi (6 pages, 24428 bytes).
